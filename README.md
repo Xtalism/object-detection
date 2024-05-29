@@ -10,8 +10,4 @@ If you happen to change or add new dependencies, you can also make your own requ
 
     py -m pip freeze --local > requirements.txt
 
-You can make your own AI model with Yolov8 official website which includes a detail tutorial on how to do it:
-    https://docs.ultralytics.com/yolov5/tutorials/train_custom_data/ 
-    
-You can also check its proper documentation:
-    https://github.com/ultralytics/ultralytics
+You can make your own AI model with Yolov8 official website which includes a detail tutorial on how to do it https://docs.ultralytics.com/yolov5/tutorials/train_custom_data/ and you can also check its proper documentation https://github.com/ultralytics/ultralytics
