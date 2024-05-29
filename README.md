@@ -1,4 +1,4 @@
-This a YoloV8 project object detection. I used Python 3.8 to write this program.
+This a YoloV8 object detection project. I used Python 3.8 to write this program.
 
 In order to install the necessary dependencies we need to install our requirements.txt file and build our Python 3.8 virtual environment, just as follows:
 
