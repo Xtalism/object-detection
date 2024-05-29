@@ -4,10 +4,10 @@ In order to install the necessary dependencies we use requirements.txt file and 
 Just as follows:
 
     # make virtual environment 
-    py -3.8 -m venv {namefyourvirtualenvironment}
+        py -3.8 -m venv {namefyourvirtualenvironment}
     # install necessary dependencies    
-    py -m pip install requirements.txt
+        py -m pip install requirements.txt
 
 If you happen to change or add new dependencies, you can also make your own requirements.txt file as follows:
 
-    py -m pip freeze --local > requirements.txt
+        py -m pip freeze --local > requirements.txt
