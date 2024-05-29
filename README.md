@@ -1,4 +1,4 @@
-This a Computer Vision "object detection" project. I used Python 3.8 version, yolov8 (you can also use yolov5 if you want) and Opencv write this program.
+This a Computer Vision "object detection" project. I used Python 3.8 version, yolov8 (you can also use yolov5 if you want) and Opencv to write this program.
 
 In order to install the necessary dependencies we use requirements.txt file and build our Python 3.8 virtual environment. 
 Just as follows:
