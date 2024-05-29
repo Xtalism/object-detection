@@ -12,8 +12,10 @@ If you happen to change or add new dependencies, you can also make your own requ
 
 You can make your own AI model with Yolov8 official website which includes a detail tutorial on how to do it using [Yolov5](https://docs.ultralytics.com/yolov5/tutorials/train_custom_data/) or using [Yolov8](https://docs.ultralytics.com/). You can also check its proper github [documentation](https://github.com/ultralytics/ultralytics).
 
-If you wish, you can check [Roboflow's](https://blog.roboflow.com/how-to-train-yolov8-on-a-custom-dataset/) documentation also and explore its open source computer vision datasets and APIs [here](https://universe.roboflow.com/).
+If you wish, you can check [Roboflow's](https://blog.roboflow.com/how-to-train-yolov8-on-a-custom-dataset/) documentation also, and explore its open source computer vision datasets and APIs [here](https://universe.roboflow.com/).
+
+![datasets](img/datasets.png)
 
 I personally used a custom dataset [notebook](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/train-yolov8-object-detection-on-custom-dataset.ipynb#scrollTo=oe9vkEvFABbN) from Roboflow.
 
-![roboflow](img/notebook.png)
+![notebook](img/notebook.png)
