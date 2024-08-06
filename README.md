@@ -12,7 +12,7 @@ If you happen to change or add new dependencies, you can also make your own requ
 
     py -m pip freeze --local > requirements.txt
 
-You can make your own AI model with Yolov8 official website which includes a detail tutorial on how to do it using [Yolov5](https://docs.ultralytics.com/yolov5/tutorials/train_custom_data/) or [Yolov8](https://docs.ultralytics.com/). You can also check its proper github [documentation](https://github.com/ultralytics/ultralytics).
+You can make your own AI model with Yolov8 official website which includes a detailed tutorial on how to do it using [Yolov5](https://docs.ultralytics.com/yolov5/tutorials/train_custom_data/) or [Yolov8](https://docs.ultralytics.com/). You can also check its proper github [documentation](https://github.com/ultralytics/ultralytics).
 
 If you wish, you can check [Roboflow's](https://blog.roboflow.com/how-to-train-yolov8-on-a-custom-dataset/) documentation also, and explore its open source computer vision datasets and APIs [here](https://universe.roboflow.com/).
 
